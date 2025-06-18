@@ -1,1 +1,3 @@
-# Projects
+# C# core programming
+
+Random pactices
